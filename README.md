@@ -14,4 +14,6 @@
 - soup.find_all(): 搜尋所有節點
 
 #### 執行結果
-![image](https://github.com/MinXiong-Huang/Crawler_Yahoo_New_Movie_In_A_Week/blob/master/img/Result.PNG)
+![image](img/img1.PNG)
+
+![image](img/img2.PNG)
